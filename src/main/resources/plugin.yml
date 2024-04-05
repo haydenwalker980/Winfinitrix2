@@ -1,0 +1,4 @@
+name: Winfinitrix2
+version: '${project.version}'
+main: us.windevsystems.winfinitrix2.Winfinitrix2
+api-version: '1.20'
