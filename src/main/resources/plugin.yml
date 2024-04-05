@@ -1,4 +1,12 @@
-name: Winfinitrix2
-version: '${project.version}'
+name: Winfinitricks2
 main: us.windevsystems.winfinitrix2.Winfinitrix2
-api-version: '1.20'
+version: 2.0.0
+author: IsMyAmpTooHigh
+description: Custom commands for Win (and co.) to use.
+commands:
+  fling:
+    description: WHEEEEEEEEEEEEEEEEEEEEEEE!
+    usage: /fling [player]
+  ctb:
+    description: Catch the bus (kill yourself).
+    usage: /ctb
