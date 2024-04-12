@@ -34,7 +34,7 @@ jobs:
       uses: actions/upload-artifact@v4.3.1
       with:
         name: "spigot-plugin" 
-        path: "*.jar"
+        path: "/home/runner/work/Winfinitrix2/Winfinitrix2/target/Winfinitrix*"
         if-no-files-found: "error"
         retention-days: 3
           
